@@ -23,4 +23,4 @@
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiladNooraei&theme=react&hide_border=false&include_all_commits=false&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiladNooraei&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiladNooraei&hide_border=true&layout=donut&theme=react)
