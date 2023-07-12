@@ -22,5 +22,5 @@
 - ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiladNooraei&theme=react&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/MiladNooraei)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiladNooraei&theme=react&hide_border=false&rank_icon=github&count_private=false)](https://github.com/MiladNooraei)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiladNooraei&hide_border=false&layout=donut&theme=react)
