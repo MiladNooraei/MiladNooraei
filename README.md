@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/MiladNooraei"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Milad!;Trying+to+become+Data+Scientist+|+Analyst+:);&center=true&width=500&height=50"></a>
+  <a href="https://github.com/MiladNooraei"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Milad!;Trying+to+become+Data+Scientist+|+Analyst+:);;&center=true&width=500&height=50"></a>
 </p>
 
 # About Me
