@@ -3,10 +3,9 @@
 </p>
 
 # About Me
-- **Computer Engineering** student at Shiraz University
+- **Master of Data Science** student at Monash University
 - Enthusiastic in **Data science and Analysis**
-- Currently improving my Machine Learning Skills
-- Also interested in **Music** and **Business**
+- Also interested in **Music** and **Business Analytics**
 
 ## Contact Me
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:miladnooraiy0@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milad-nooraei/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/milad_nooraiy)
